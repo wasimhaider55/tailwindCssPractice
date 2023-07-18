@@ -1,0 +1,26 @@
+{
+  "name": "tailwindcsspractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite --host --port 8888"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasimhaider55/tailwindCssPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wasimhaider55/tailwindCssPractice/issues"
+  },
+  "homepage": "https://github.com/wasimhaider55/tailwindCssPractice#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.26",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.4"
+  }
+}
